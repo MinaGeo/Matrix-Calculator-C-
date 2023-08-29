@@ -1,0 +1,7 @@
+﻿  majortask2v1.cpp
+C:\Users\HP\source\repos\majortask2v1\majortask2v1\majortask2v1.cpp(78,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\majortask2v1\majortask2v1\majortask2v1.cpp(83,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\majortask2v1\majortask2v1\majortask2v1.cpp(91,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\majortask2v1\majortask2v1\majortask2v1.cpp(96,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\majortask2v1\majortask2v1\majortask2v1.cpp(246,151): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\source\repos\majortask2v1\majortask2v1\majortask2v1.cpp(386): error C4700: uninitialized local variable 'Det' used
